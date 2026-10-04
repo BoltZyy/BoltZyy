@@ -126,12 +126,8 @@ Because apparently calling one AI API directly wasn't complicated enough.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BoltZyy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoltZyy&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BoltZyy&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph">
+<img src="./profile/stats.svg" height="170" alt="GitHub Stats">
+<img src="./profile/top-langs.svg" height="170" alt="Top Languages">
 
 </div>
 
