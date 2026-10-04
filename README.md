@@ -70,6 +70,7 @@ Repeat
 <img src="https://img.shields.io/badge/AI-Assisted-111111?style=flat-square&logo=openai&logoColor=white" alt="AI Assisted">
 <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Gemini">
 <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq">
+<img src="https://img.shields.io/badge/Cerebras-F15A29?style=flat-square" alt="Cerebras">
 <img src="https://img.shields.io/badge/OpenRouter-6466F1?style=flat-square" alt="OpenRouter">
 
 **☁️ Backend & Serverless**
@@ -93,7 +94,7 @@ Repeat
 | Project | What it is | Status |
 | :------ | :--------- | :----- |
 | 🤖 [**Vercel-dc**](https://github.com/BoltZyy/Vercel-dc) | My most feature-rich Discord bot. A multi-purpose serverless bot with AI chat, a market & economy engine, utilities, and moderation. It runs on Vercel via HTTP Interactions — no WebSocket gateway, no server that has to stay up 24/7.<br>**Stack:** Node.js · Redis · QStash · [Website](https://vercel-dc.vercel.app) | ⭐ Flagship |
-| 🧠 [**Vercel-gateway**](https://github.com/BoltZyy/Vercel-gateway) | A serverless AI router/proxy that provides an OpenAI-compatible interface while routing requests across multiple AI providers. An agentic version, [Vercel-agentic-gateway](https://github.com/BoltZyy/Vercel-agentic-gateway), is on the way. | 🔧 Active |
+| 🧠 [**Vercel-gateway**](https://github.com/BoltZyy/Vercel-gateway) | A serverless AI router/proxy with automatic fallback across providers (Gemini → Groq → Cerebras → OpenRouter), exposed as an OpenAI Chat Completions-compatible endpoint. Works as a custom endpoint in SillyTavern / Saucepan.ai. An agentic version, [Vercel-agentic-gateway](https://github.com/BoltZyy/Vercel-agentic-gateway), is on the way. | 🔧 Active |
 | 🤖 [**Discord-bot-vercel**](https://github.com/BoltZyy/Discord-bot-vercel) | One of my earlier serverless Discord bots. Older architecture, older experiments, but part of the journey that led to the newer projects. | 📦 Legacy |
 | 🎨 [**Theme-bolTz**](https://github.com/BoltZyy/Theme-bolTz) | A collection of custom themes and visual experiments. Currently focused on Vendetta, with Telegram support planned. | 🎨 Ongoing |
 
