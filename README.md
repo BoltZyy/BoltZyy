@@ -2,7 +2,7 @@
 
 # ⚡ BoltZyy
 
-**Vibe Coder • AI-Assisted Developer • Professional Debugger™**
+**Vibe Coder • AI-Assisted Developer • Professional Debugger™ (no lie frfr)**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+things+with+code+%2B+AI.;Discord+Bots+%7C+Serverless+%7C+AI;Breaking+things+until+they+work+again.;Powered+by+curiosity+and+questionable+decisions." alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/BoltZyy?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers">
 </a>
 <a href="https://discord.com/users/1091901409668124805">
-  <img src="https://img.shields.io/badge/Discord-BoltZyy-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-boltz4_v-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
 </div>
