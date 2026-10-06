@@ -95,7 +95,7 @@ Repeat
 | :------ | :--------- | :----- |
 | 🤖 [**Vercel-dc**](https://github.com/BoltZyy/Vercel-dc) | My most feature-rich Discord bot. A multi-purpose serverless bot with AI chat, a market & economy engine, utilities, and moderation. It runs on Vercel via HTTP Interactions — no WebSocket gateway, no server that has to stay up 24/7.<br>**Stack:** Node.js · Redis · QStash · [Website](https://vercel-dc.vercel.app) | ⭐ Flagship |
 | 🧠 [**Vercel-gateway**](https://github.com/BoltZyy/Vercel-gateway) | A serverless AI router/proxy with automatic fallback across providers (Gemini → Groq → Cerebras → OpenRouter), exposed as an OpenAI Chat Completions-compatible endpoint. Works as a custom endpoint in SillyTavern / Saucepan.ai. An agentic version, [Vercel-agentic-gateway](https://github.com/BoltZyy/Vercel-agentic-gateway), is on the way. | 🔧 Active |
-| 🤖 [**Discord-bot-vercel**](https://github.com/BoltZyy/Discord-bot-vercel) | One of my earlier serverless Discord bots. Older architecture, older experiments, but part of the journey that led to the newer projects. | 📦 Legacy |
+| 🤖 [**Discord-bot-vercel**](https://github.com/BoltZyy/Discord-bot-vercel) | One of my earlier serverless Discord bots. Older architecture, older experiments, but part of the journey that led to the newer projects. Partly this is the idea to my serverless bot tho| 📦 Legacy |
 | 🎨 [**Theme-bolTz**](https://github.com/BoltZyy/Theme-bolTz) | A collection of custom themes and visual experiments. Currently focused on Vendetta, with Telegram support planned. | 🎨 Ongoing |
 
 <details>
