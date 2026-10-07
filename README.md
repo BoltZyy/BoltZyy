@@ -31,7 +31,7 @@ I don't always code because I have to. Sometimes I code because real life is bus
 
 I also genuinely enjoy building things together with AI. I throw an idea at it, let it challenge my approach, break things, fix things, and somehow we eventually end up with something that works.
 
-And yes... sometimes the code works. Sometimes the code works after 47 increasingly questionable fixes.
+And yes... sometimes the code works. Sometimes the code works after 47 increasingly questionable fixes. Mostly cuz I'm skill issue at coding and too much to bother on real life, so ykyk
 
 That's the process. 😭
 
