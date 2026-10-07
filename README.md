@@ -150,6 +150,7 @@ Because apparently calling one AI API directly wasn't complicated enough.
 ⚡ *Built with curiosity, AI, and a need to escape reality for a bit.*
 
 Thanks for stopping by.
-PS: If you ask me if this shi build by AI or not, then yes. But to be clear, the concept was all mine and AI just polished it so it can save u} much time, fr.
+
+PS: If you ask me if this shi build by AI or not, then yes. But to be clear, the concept was all mine and AI just polished it so it can save up much time, fr.
 
 </div>
