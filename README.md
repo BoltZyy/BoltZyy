@@ -23,7 +23,7 @@
 
 Yo, I'm **BoltZyy**.
 
-I'm mostly a vibe coder — I build things with code, AI, curiosity, and an unreasonable amount of trial and error. Lately that means serverless Discord bots with AI chat, economy systems, and moderation, plus an OpenAI-compatible gateway that routes across multiple AI providers.
+I'm mostly a vibe coder — I build things with code, AI, curiosity, and an unreasonable amount of trial and error. Lately that means Discord and Telegram bots with AI chat, multi-provider fallback, and moderation, plus an OpenAI-compatible gateway that routes across multiple AI providers.
 
 I don't always code because I have to. Sometimes I code because real life is busy, noisy, and exhausting, and coding is just a nice little escape route.
 
@@ -73,17 +73,24 @@ Repeat
 <img src="https://img.shields.io/badge/Cerebras-F15A29?style=flat-square" alt="Cerebras">
 <img src="https://img.shields.io/badge/OpenRouter-6466F1?style=flat-square" alt="OpenRouter">
 
+**💬 Bots**
+
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+
 **☁️ Backend & Serverless**
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 <img src="https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black" alt="Upstash">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
 <img src="https://img.shields.io/badge/QStash-000000?style=flat-square" alt="QStash">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 
 **💻 Code**
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 
@@ -97,8 +104,10 @@ Repeat
 | 💬 [**Nera-bot-telegram**](https://github.com/BoltZyy/Nera-bot-telegram) | A Telegram bot with its own koboldcpp-supported proxy and Google GenAI (Gemini) compatibility.<br>**Stack:** Python | 🆕 New |
 | 🤖 [**Vercel-dc**](https://github.com/BoltZyy/Vercel-dc) | My most feature-rich serverless Discord bot. A multi-purpose bot with AI chat, a market & economy engine, utilities, and moderation. It runs on Vercel via HTTP Interactions — no WebSocket gateway, no server that has to stay up 24/7.<br>**Stack:** Node.js · Redis · QStash · [Website](https://vercel-dc.vercel.app) | ⏸️ Paused |
 | 🧠 [**Vercel-gateway**](https://github.com/BoltZyy/Vercel-gateway) | A serverless AI router/proxy with automatic fallback across providers (Gemini → Groq → Cerebras → OpenRouter), exposed as an OpenAI Chat Completions-compatible endpoint. Works as a custom endpoint in SillyTavern / Saucepan.ai. An agentic version also exists: [Vercel-agentic-gateway](https://github.com/BoltZyy/Vercel-agentic-gateway). | ⏸️ Paused |
-| 🤖 [**Discord-bot-vercel**](https://github.com/BoltZyy/Discord-bot-vercel) | One of my earlier serverless Discord bots. Older architecture, older experiments, but part of the journey that led to the newer projects. Partly this is the idea to my serverless bot tho| 📦 Legacy |
+| 🤖 [**Discord-bot-vercel**](https://github.com/BoltZyy/Discord-bot-vercel) | One of my earlier serverless Discord bots. Older architecture, older experiments, but part of the journey that led to the newer projects. Partly this is the idea to my serverless bot tho. | 📦 Legacy |
 | 🎨 [**Theme-bolTz**](https://github.com/BoltZyy/Theme-bolTz) | A collection of custom themes and visual experiments. Currently focused on Vendetta, with Telegram support planned. | ⏸️ Paused |
+
+> ⏸️ **Paused** doesn't mean abandoned — I still plan to get back to my Discord bots when life gives me some breathing room. For now, only the projects marked 🔥 / 🆕 are actively maintained.
 
 <details>
 <summary><b>How Vercel-gateway works</b></summary>
